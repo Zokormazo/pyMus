@@ -3,7 +3,7 @@
 * usuarios sin registrar?
 * guardar historico
 * algun tipo de sala para unirte a la partida
-
+* estadisticas, puntuaciones y top con hall of fame. Sin piques no hay viciados
 
 # Tecnologias
 * flask
