@@ -2,4 +2,4 @@ env/
 venv/
 *.py[cod]
 __pycache__/
-
+.directory
